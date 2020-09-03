@@ -12,7 +12,6 @@ klusta
 klustakwik2
 jupyter
 pyqtwebengine
-phy --pre --upgrade
 pynwb
 pyopenephys
 spikeinterface
